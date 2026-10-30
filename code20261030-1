@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>실종 위험 예측 프로젝트</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+      color: #222;
+    }
+
+    header {
+      background: #243b55;
+      color: white;
+      padding: 55px 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 3px 12px #00000010;
+    }
+
+    h2 {
+      color: #243b55;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #777;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>실종 위험 예측 프로젝트</h1>
+    <p>공공데이터를 활용한 지역별 실종 위험 분석</p>
+  </header>
+
+  <main>
+    <h2>프로젝트 소개</h2>
+    <p>
+      본 프로젝트는 실종 관련 공공데이터를 활용하여
+      지역과 시간에 따른 실종 발생 위험을 분석하고
+      예측하는 것을 목표로 합니다.
+    </p>
+
+    <h2>분석 목적</h2>
+    <p>
+      실종 위험이 상대적으로 높은 시간과 지역을 파악하여
+      예방 활동과 안전 관리에 활용할 수 있는 정보를
+      제공하고자 합니다.
+    </p>
+
+    <h2>활용 데이터</h2>
+    <p>
+      경찰청 안전Dream에서 제공하는 실종 관련 공공데이터를
+      활용합니다.
+    </p>
+  </main>
+
+  <footer>
+    © 2026 Missing Risk Prediction Project
+  </footer>
+
+</body>
+</html>
